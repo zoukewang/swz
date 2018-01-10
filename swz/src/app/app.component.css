@@ -1,0 +1,8 @@
+.manu {
+    background-color: #f9fbfe;
+    opacity:0.8;
+    filter:alpha(opacity=80); /* 针对 IE8 以及更早的版本 */
+}
+.manuitem {
+    color: #323232;
+}
